@@ -1,2 +1,6 @@
-# buzzwordy
-A Slackbot to Grade Buzzwordy-ness
+# BUZZWORDY
+
+A node module to detect and generate buzzwordy phrases!
+
+
+

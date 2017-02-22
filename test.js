@@ -1,0 +1,6 @@
+var { generate } = require('./index')
+console.log(generate())
+console.log(generate())
+console.log(generate())
+console.log(generate())
+console.log(generate())
