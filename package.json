@@ -1,9 +1,11 @@
 {
-  "dependencies": {
-    "@slack/client": "^3.8.1",
-    "lodash": "^4.17.4"
+  "name": "buzzwordy",
+  "version": "1.0.0",
+  "author": "Mike Hockerman <mike@hockerman.com>",
+  "description": "Identify and generate buzzwordy phrases :)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhoc/buzzwordy"
   },
-  "scripts": {
-    "start": "node app.js"
-  }
+  "license": "MIT"
 }
