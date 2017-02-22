@@ -1,6 +1,6 @@
 # BUZZWORDY
 
-A node module to detect and generate buzzwordy phrases!
+A node module to generate buzzwordy phrases!
 
 ```sh
 npm i --save buzzwordy
